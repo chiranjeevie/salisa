@@ -1,6 +1,6 @@
 # Run symfony console
 sudo docker-compose exec php  php /code/bin/console assets:install public
-
+## Adding conent
 # Run symfony console locally
 sudo /usr/local/bin/docker-compose exec php  php /api/bin/console asset:install
 
